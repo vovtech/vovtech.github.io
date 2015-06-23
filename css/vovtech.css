@@ -1,0 +1,80 @@
+
+
+body {
+    display: block;
+    font-family: Arial,"Josefin Sans",Charcoal,Verdana,Helvetica;
+}
+
+#navigation {
+    background: rgba(47, 114, 133, 0) none repeat scroll 0% 0%;
+}
+
+.masthead-nav > li > a {
+    color: rgb(255, 255, 255);
+}
+
+.masthead > a {
+    color: rgb(255, 255, 255);
+}
+
+.masthead-brand {
+    letter-spacing: 0px;
+    font-size: 1.9em;
+    font-family: Arial,"Droid Sans",Cardo,Geneva,"Open Sans";
+}
+
+#home {
+    box-shadow: 0px 0px 201px rgba(0, 0, 0, 0.57) inset;
+}
+
+#home .before {
+    filter: grayscale(0.29);
+    background-image: url("../img/bg.jpg");
+}
+
+#home-text-wrapper {
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.21);
+    padding: 15px 0px;
+}
+
+/* Tagline */
+#cover-heading {
+    font-family: "Lucida Sans Unicode",Tahoma,Molengo,"Crimson Text",Cardo;
+    font-size: 6rem;
+    font-weight: 900;
+    letter-spacing: 2.4px;
+}
+
+/* Description */
+#opener {
+    font-weight: bold;
+}
+
+#home-content {
+    background: rgba(0, 0, 0, 0.40) none repeat scroll 0% 0%;
+}
+
+#dream {
+    background-image: url("../img/dream.jpg");
+}
+
+#build {
+    background-image: url("../img/build.jpg");
+}
+
+#share {
+    background-image: url("../img/share.jpg");
+}
+
+#products a, a:focus, a:hover {
+  color: #428BCA;
+}
+
+.backgroundcircle {
+    background-color: rgb(47, 114, 133);
+}
+
+.quote-row {
+    background-color: rgb(98, 98, 98);
+}

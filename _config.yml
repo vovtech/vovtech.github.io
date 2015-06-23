@@ -1,0 +1,42 @@
+
+#
+# Site settings
+#
+author: VOV Technology, LLC
+url: http://vovtech.com
+title: VOV Technology
+email: your-email@domain.com
+tagline: Dream. Build. Share.
+baseurl: ""
+description: VOV Technology develops custom hardware for Internet communities.
+
+#
+# Social Media
+#
+social:
+  - title: twitter
+    url: https://twitter.com/vovtech
+
+#
+# Google Analytics
+# 
+google_analytics_tracking_id: UA-64390237-1
+
+
+#
+# Jekyll Settings
+#
+markdown: kramdown
+permalink: pretty
+
+
+#
+# Jekyll Plugins (Compatible with Github Pages)
+#
+gems:
+ - jekyll-mentions
+ - jemoji
+ - jekyll-redirect-from
+ - jekyll-sitemap
+
+ 
